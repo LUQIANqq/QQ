@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QQ</string>
+    <string name="login">登录</string>
+    <string name="my_number">账号</string>
+    <string name="my_password">密码</string>
+    <string name="number">请输入QQ账号</string>
+    <string name="password">请输入密码</string>
+
+</resources>
